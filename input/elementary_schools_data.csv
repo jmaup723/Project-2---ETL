@@ -1,0 +1,1431 @@
+zip_code,school_name,school_rating,grade_levels,percent_low_income
+23233,Gayton Elementary School,10.0,PK-5,8
+23601,Deer Park Elementary School,10.0,PK-5,37
+24014,Crystal Spring Elementary School,10.0,PK-5,16
+24018,Green Valley Elementary School,10.0,PK-5,36
+24416,Mountain View Elementary School,10.0,PK-5,47
+23456,Kemps Landing Magnet,10.0,2-8,10
+23456,North Landing Elementary School,10.0,PK-5,12
+24210,Greendale Elementary School,10.0,PK-5,51
+24202,High Point Elementary School,10.0,PK-5,47
+24211,Watauga Elementary School,10.0,PK-5,43
+24283,St. Paul Elementary School,10.0,PK-8,57
+24374,Speedwell Elementary School,10.0,PK-5,51
+23693,Mount Vernon Elementary School,10.0,PK-5,12
+23696,Seaford Elementary School,10.0,K-5,16
+23693,Tabb Elementary School,10.0,PK-5,18
+20147,Belmont Station Elementary School,10.0,PK-5,4
+22191,Mary G. Porter Traditional,10.0,1-8,19
+22205,McKinley Elementary School,10.0,PK-5,5
+22205,Arlington Traditional,10.0,PK-5,17
+23836,Enon Elementary School,10.0,PK-5,25
+22182,Westbriar Elementary School,10.0,PK-6,4
+23836,Elizabeth Scott Elementary School,9.0,PK-5,44
+23832,Winterpock Elementary School,9.0,PK-5,4
+23233,Short Pump Elementary School,9.0,PK-5,7
+23229,Three Chopt Elementary School,9.0,PK-5,43
+23228,Trevvett Elementary School,9.0,PK-5,52
+23229,Tuckahoe Elementary School,9.0,PK-5,4
+23233,Nuckols Farm Elementary School,9.0,PK-5,6
+20132,Emerick Elementary School,9.0,PK-5,12
+24531,Chatham Elementary School,9.0,PK-5,61
+24531,Union Hall Elementary School,9.0,PK-5,68
+23875,L.L. Beazley Elementary School,9.0,PK-5,50
+20112,Thurgood Marshall Elementary School,9.0,PK-5,12
+22192,Occoquan Elementary School,9.0,PK-5,65
+24347,Snowville Elementary School,9.0,PK-5,43
+24015,Grandin Court Elementary School,9.0,PK-5,31
+22801,Pleasant Valley Elementary School,9.0,PK-5,59
+24280,Belfast Elk Garden Elementary School,9.0,K-5,56
+24266,Lebanon Elementary School,9.0,2-4,51
+24290,Weber City Elementary School,9.0,PK-6,46
+24251,Yuma Elementary School,9.0,PK-6,45
+22407,Chancellor Elementary School,9.0,PK-5,21
+23457,Creeds Elementary School,9.0,PK-5,18
+23452,Kingston Elementary School,9.0,PK-5,5
+23456,Princess Anne Elementary School,9.0,PK-5,9
+23455,Thoroughgood Elementary School,9.0,PK-5,18
+23456,Red Mill Elementary School,9.0,PK-5,10
+24216,Appalachia Elementary School,9.0,PK-8,79
+24279,J.W. Adams Combined,9.0,PK-8,58
+24219,Powell Valley Primary School,9.0,PK-4,58
+24368,Rural Retreat Elementary School,9.0,PK-5,49
+24382,Sheffey Elementary School,9.0,PK-5,53
+23665,Bethel Manor Elementary School,9.0,PK-5,47
+23060,Echo Lake Elementary School,9.0,PK-5,17
+23059,Twin Hickory Elementary School,9.0,PK-5,6
+20112,Ashland Elementary School,9.0,PK-5,10
+22182,Colvin Run Elementary School,9.0,PK-6,1
+23059,Rivers Edge Elementary School,9.0,PK-5,3
+23604,General Stanford Elementary School,9.0,PK-5,48
+20110,Pennington School,9.0,1-8,16
+24521,Temperance Elementary School,9.0,PK-5,47
+22207,Jamestown Elementary School,9.0,PK-5,2
+22207,Taylor Elementary School,9.0,PK-5,4
+22213,Tuckahoe Elementary School,9.0,PK-5,3
+23113,Bettie Weaver Elementary School,9.0,PK-5,1
+23236,W W Gordon Elementary School,9.0,PK-5,7
+23112,Woolridge Elementary School,9.0,PK-5,6
+24272,Ervinton Elementary School,9.0,PK-5,70
+22101,Churchill Road Elementary School,9.0,PK-6,1
+20171,Floris Elementary School,9.0,PK-6,2
+22066,Great Falls Elementary School,9.0,PK-6,1
+22043,Haycock Elementary School,9.0,PK-6,2
+22152,Keene Mill Elementary School,9.0,PK-6,15
+22101,Kent Gardens Elementary School,9.0,PK-6,1
+22066,Forestville Elementary School,9.0,PK-6,1
+22153,Sangster Elementary School,9.0,PK-6,2
+20151,Poplar Tree Elementary School,9.0,PK-6,6
+24065,Boones Mill Elementary School,9.0,PK-5,43
+24137,Snow Creek Elementary School,9.0,PK-5,55
+23116,Rural Point Elementary School,9.0,PK-5,12
+23059,Shady Grove Elementary School,9.0,PK-5,2
+23059,Kaechele Elementary,9.0,PK-5,2
+22207,Discovery Elementary School,9.0,PK-5,3
+24101,Windy Gap Elementary School,8.0,PK-5,39
+20181,T. Clay Wood Elementary School,8.0,PK-5,12
+23315,Carrsville Elementary School,8.0,PK-5,50
+24248,Elydale Elementary School,8.0,5-7,79
+24282,St. Charles Elementary School,8.0,PK-5,73
+20132,Lincoln Elementary School,8.0,PK-5,5
+20141,Round Hill Elementary School,8.0,PK-5,8
+20165,Lowes Island Elementary School,8.0,PK-5,5
+20175,Evergreen Mill Elementary School,8.0,PK-5,39
+20148,Hillside Elementary School,8.0,PK-5,4
+20110,Weems Elementary School,8.0,PK-4,68
+24060,Gilbert Linkous Elementary School,8.0,PK-5,19
+23601,Hilton Elementary School,8.0,PK-5,28
+23518,Larrymore Elementary School,8.0,PK-5,61
+23505,Sewells Point Elementary School,8.0,PK-5,60
+24053,Blue Ridge Elementary School,8.0,PK-7,65
+24120,Meadows Of Dan Elementary School,8.0,PK-7,13
+24185,Woolwine Elementary School,8.0,PK-7,63
+24563,John L. Hurt Elementary School,8.0,PK-5,77
+24557,Mt. Airy Elementary School,8.0,PK-5,73
+23662,Poquoson Elementary School,8.0,3-5,18
+23139,Powhatan Elementary School,8.0,K-5,25
+23842,South Elementary School,8.0,PK-5,41
+23875,William A. Walton Elementary School,8.0,PK-5,47
+22192,Old Bridge Elementary School,8.0,PK-5,38
+24018,Cave Spring Elementary School,8.0,PK-5,14
+24014,Mount Pleasant Elementary School,8.0,PK-5,38
+22812,John W. Wayland Elementary School,8.0,PK-5,29
+24260,Honaker Elementary School,8.0,PK-7,61
+24370,Rich Valley Elementary School,8.0,PK-5,54
+23829,Capron Elementary School,8.0,PK-5,57
+24630,North Tazewell Elementary School,8.0,PK-5,69
+24641,Richlands Elementary School,8.0,PK-5,61
+24651,Tazewell Elementary School,8.0,PK-5,57
+23456,Strawbridge Elementary School,8.0,PK-5,15
+23456,Landstown Elementary School,8.0,PK-5,34
+23454,Corporate Landing Elementary School,8.0,PK-5,52
+23452,Holland Elementary School,8.0,PK-5,73
+23454,John B. Dey Elementary School,8.0,PK-5,15
+23462,Pembroke Elementary School,8.0,PK-5,53
+23454,Trantwood Elementary School,8.0,PK-5,21
+23453,Rosemont Elementary School,8.0,PK-5,65
+23456,Salem Elementary School,8.0,PK-5,36
+23454,Ocean Lakes Elementary School,8.0,PK-5,25
+24202,Valley Institute Elementary,8.0,PK-5,61
+23181,West Point Elementary School,8.0,PK-5,39
+24360,Max Meadows Elementary School,8.0,PK-5,53
+23693,Coventry Elementary School,8.0,PK-5,13
+24019,Bonsack Elementary School,8.0,PK-5,9
+20152,Little River Elementary School,8.0,PK-5,2
+20148,Mill Run Elementary School,8.0,PK-5,2
+22204,Campbell Elementary School,8.0,PK-5,53
+20136,Cedar Point Elementary School,8.0,PK-5,9
+23323,Grassfield Elementary School,8.0,PK-5,13
+20120,Powell Elementary School,8.0,PK-6,11
+20169,J.W. Alvey Elementary School,8.0,PK-5,4
+20155,Buckland Mills Elementary School,8.0,PK-5,16
+23059,Greenwood Elementary School,8.0,PK-5,38
+20148,Legacy Elementary School,8.0,PK-5,2
+20147,Newton-Lee Elementary School,8.0,PK-5,4
+23456,Three Oaks Elementary School,8.0,PK-5,14
+23059,Colonial Trail Elementary School,8.0,PK-5,6
+20175,Sycolin Creek Elementary School,8.0,PK-5,2
+22903,Virginia L Murray Elementary School,8.0,PK-5,8
+22911,Hollymead Elementary School,8.0,PK-5,10
+22207,Nottingham Elementary School,8.0,K-5,3
+22201,Arlington Science Focus School,8.0,PK-5,19
+24460,Millboro Elementary School,8.0,PK-7,59
+24095,Stewartsville Elementary School,8.0,PK-5,58
+24077,Cloverdale Elementary School,8.0,PK-5,16
+24064,Colonial Elementary School,8.0,PK-5,23
+23322,Great Bridge Intermediate School,8.0,3-5,15
+23237,Bellwood Elementary School,8.0,PK-5,74
+23237,Bensley Elementary School,8.0,PK-5,84
+23114,J B Watkins Elementary School,8.0,PK-5,10
+22101,Chesterbrook Elementary School,8.0,PK-6,0
+22181,Flint Hill Elementary School,8.0,PK-6,5
+22031,Mantua Elementary School,8.0,PK-6,11
+22033,Navy Elementary School,8.0,PK-6,4
+22124,Oakton Elementary School,8.0,PK-6,7
+22150,Springfield Estates Elementary School,8.0,PK-6,28
+22180,Stenwood Elementary School,8.0,PK-6,11
+22180,Vienna Elementary School,8.0,PK-6,7
+22032,Wakefield Forest Elementary School,8.0,PK-6,7
+22308,Waynewood Elementary School,8.0,PK-6,2
+22182,Wolftrap Elementary School,8.0,PK-6,1
+22015,Terra Centre Elementary School,8.0,PK-6,9
+20171,Oak Hill Elementary School,8.0,PK-6,3
+20171,Crossfield Elementary School,8.0,PK-6,3
+22030,Willow Springs Elementary School,8.0,PK-6,7
+24067,Callaway Elementary School,8.0,PK-5,60
+24102,Henry Elementary School,8.0,PK-5,56
+24333,Baywood Elementary School,8.0,PK-5,75
+24333,Fairview Elementary School,8.0,K-5,77
+23661,Armstrong Elementary School,8.0,K-5,23
+23116,Pearson's Corner Elementary School,8.0,PK-5,4
+23116,Cool Spring Elementary School,8.0,PK-5,7
+23226,Crestview Elementary School,8.0,PK-5,43
+23060,Glen Allen Elementary School,8.0,PK-5,12
+20148,ROCK RIDGE HIGH SCHOOL,8.0,PK-12,13
+20152,Cardinal Ridge Elementary,8.0,PK-5,5
+23111,Laurel Meadow Elementary School,7.0,PK-5,22
+20147,Steuart W. Weller Elementary School,7.0,PK-5,20
+20152,Liberty Elementary School,7.0,PK-5,10
+20169,Samuel L. Gravely Jr. Elementary School,7.0,PK-5,8
+23666,George P Phenix Elementary School,7.0,PK-8,33
+20132,Woodgrove High School,7.0,PK-12,6
+24112,Rich Acres Elementary School,7.0,PK-5,86
+24465,Highland Elementary School,7.0,PK-5,70
+24243,Dryden Elementary School,7.0,PK-5,71
+24281,Rose Hill Elementary School,7.0,PK-4,69
+24450,Harrington Waddell Elementary School,7.0,PK-5,25
+20165,Algonkian Elementary School,7.0,PK-5,12
+24060,Kipps Elementary School,7.0,K-5,15
+24141,Belview Elementary School,7.0,PK-5,49
+23508,Larchmont Elementary School,7.0,PK-5,18
+23518,Tarrallton Elementary School,7.0,PK-5,54
+22473,Northumberland Elementary School,7.0,PK-5,65
+22508,Locust Grove Elementary School,7.0,3-5,45
+24133,Patrick Springs Elementary School,7.0,PK-3,60
+24557,Gretna Elementary School,7.0,PK-5,69
+24586,Kentuck Elementary School,7.0,PK-5,58
+24527,Southside Elementary School,7.0,PK-5,61
+24541,Stony Mill Elementary School,7.0,PK-5,61
+23842,David A. Harrison Elementary School,7.0,PK-5,53
+20181,Nokesville Elementary School,7.0,PK-8,18
+20110,Bennett Elementary School,7.0,PK-5,17
+22025,A. Henderson Elementary School,7.0,PK-5,21
+24084,Dublin Elementary School,7.0,PK-5,53
+24015,Virginia Heights Elementary School,7.0,PK-5,99
+24012,Monterey Elementary School,7.0,PK-5,99
+24018,Back Creek Elementary School,7.0,PK-5,16
+24179,Herman L. Horn Elementary School,7.0,PK-5,51
+24019,Glen Cove Elementary School,7.0,PK-5,29
+24018,Penn Forest Elementary School,7.0,PK-5,16
+24435,Fairfield Elementary School,7.0,PK-5,56
+22827,Elkton Elementary School,7.0,PK-5,43
+24153,South Salem Elementary School,7.0,K-5,24
+24244,Duffield-Pattonsville Primary School,7.0,PK-4,63
+24258,Hilton Elementary School,7.0,PK-6,51
+24271,Nickelsville Elementary School,7.0,PK-7,59
+24354,Marion Primary School,7.0,PK-5,58
+24370,Saltville Elementary School,7.0,PK-5,81
+23878,Nottoway Elementary School,7.0,PK-5,40
+22556,Rockhill Elementary School,7.0,PK-5,26
+24609,Cedar Bluff Elementary School,7.0,PK-5,50
+23454,Alanton Elementary School,7.0,PK-5,38
+23462,Arrowhead Elementary School,7.0,PK-5,41
+23455,Bayside Elementary School,7.0,PK-5,55
+23464,Fairfield Elementary School,7.0,PK-5,30
+23455,Hermitage Elementary School,7.0,PK-5,37
+23464,Kempsville Elementary School,7.0,PK-5,33
+23454,Linkhorn Park Elementary School,7.0,PK-5,24
+23452,Malibu Elementary School,7.0,PK-5,47
+23455,Shelton Park Elementary School,7.0,PK-5,56
+23464,Indian Lakes Elementary School,7.0,PK-5,32
+23464,Centerville Elementary,7.0,PK-5,22
+23464,Tallwood Elementary School,7.0,PK-5,38
+23464,Glenwood Elementary School,7.0,PK-5,41
+24361,Meadowview Elementary School,7.0,PK-5,61
+24361,Rhea Valley Elementary School,7.0,PK-5,64
+22980,Berkeley Glenn Elementary School,7.0,K-5,50
+24230,Coeburn Primary School,7.0,PK-4,75
+24293,Wise Primary School,7.0,PK-4,49
+23692,Dare Elementary School,7.0,PK-5,23
+23692,Grafton Bethel Elementary School,7.0,PK-5,17
+23185,Waller Mill Elementary School,7.0,K-5,19
+22846,Peak View Elementary School,7.0,PK-5,32
+23188,Stonehouse Elementary School,7.0,K-5,24
+20175,Heritage High School,7.0,PK-12,18
+20176,Seldens Landing Elementary School,7.0,PK-5,8
+22556,Kate Waller Barrett Elementary School,7.0,PK-5,51
+23116,Kersey Creek Elementary School,7.0,PK-5,7
+22556,Margaret Brent Elementary School,7.0,PK-5,19
+20105,Pinebrook Elementary School,7.0,PK-5,9
+20148,Rosa Lee Carter Elementary School,7.0,PK-5,6
+23188,Matoaka Elementary School,7.0,K-5,18
+22901,Meriwether Lewis Elementary School,7.0,K-5,8
+24590,Scottsville Elementary School,7.0,PK-5,42
+22314,Lyles-Crouch Elementary,7.0,PK-5,28
+22205,Ashlawn Elementary School,7.0,PK-5,17
+24526,Big Island Elementary School,7.0,PK-5,38
+24090,Breckinridge Elementary School,7.0,PK-5,26
+24085,Eagle Rock Elementary School,7.0,PK-5,38
+24502,Tomahawk Elementary School,7.0,PK-5,36
+24333,Gladeville Elementary School,7.0,PK-5,61
+23947,Eureka Elementary School,7.0,PK-5,59
+23322,Southeastern Elementary School,7.0,PK-5,6
+23322,Butts Road Intermediate School,7.0,3-5,8
+23322,Cedar Road Elementary School,7.0,PK-5,13
+23236,A M Davis Elementary School,7.0,PK-5,56
+23237,Beulah Elementary School,7.0,PK-5,62
+23120,Grange Hall Elementary School,7.0,PK-5,11
+23235,Greenfield Elementary School,7.0,PK-5,18
+23234,Hopkins Road Elementary School,7.0,PK-5,64
+23803,Matoaca Elementary School,7.0,PK-5,48
+23113,Robious Elementary School,7.0,PK-5,8
+23112,Alberta Smith Elementary School,7.0,PK-5,17
+23832,O B Gates Elementary School,7.0,PK-5,23
+23112,Swift Creek Elementary School,7.0,PK-5,9
+23833,Midway Elementary School,7.0,K-5,42
+22041,Belvedere Elementary School,7.0,PK-5,51
+22124,Waples Mill Elementary School,7.0,PK-6,8
+22003,Camelot Elementary School,7.0,PK-6,32
+22003,Canterbury Woods Elementary School,7.0,PK-6,10
+22039,Fairview Elementary School,7.0,PK-6,7
+22152,Hunt Valley Elementary School,7.0,PK-6,8
+22043,Lemon Road Elementary School,7.0,PK-6,17
+22031,Mosby Woods Elementary School,7.0,PK-6,22
+22152,Orange Hunt Elementary School,7.0,PK-6,4
+22151,Ravensworth Elementary School,7.0,PK-6,17
+22102,Spring Hill Elementary School,7.0,PK-6,3
+20191,Sunrise Valley Elementary School,7.0,PK-6,6
+22152,West Springfield Elementary School,7.0,PK-6,8
+20171,Fox Mill Elementary School,7.0,PK-6,5
+22151,Kings Glen Elementary School,7.0,4-6,25
+20124,Union Mill Elementary School,7.0,PK-6,9
+22033,Lees Corner Elementary School,7.0,PK-6,11
+20187,P.B. Smith Elementary School,7.0,PK-5,8
+24141,Indian Valley Elementary School,7.0,PK-7,45
+24184,Burnt Chimney Elementary School,7.0,PK-5,44
+23061,Botetourt Elementary School,7.0,PK-5,34
+23061,Bethel Elementary School,7.0,PK-5,36
+23061,Petsworth Elementary School,7.0,PK-5,44
+23229,Davis Elementary School,7.0,PK-5,31
+20148,Moorefield Station Elementary School,7.0,PK-5,4
+23437,Pioneer Elementary,7.0,PK-5,48
+23882,Sussex Central Elementary School,7.0,PK-5,79
+23509,The Academy for Discovery at Lakewood,7.0,3-8,49
+22546,Lewis & Clark Elementary School,6.0,PK-5,43
+22701,Yowell Elementary School,6.0,PK-5,48
+23223,Harvie Elementary School,6.0,PK-5,67
+20148,Creighton's Corner Elementary School,6.0,PK-5,5
+20158,Kenneth W Culbert Elementary School,6.0,PK-5,7
+22827,River Bend Elementary School,6.0,PK-5,53
+20136,Piney Branch Elementary School,6.0,PK-5,14
+20105,Buffalo Trail Elementary School,6.0,K-5,8
+24528,Brookneal Elementary School,6.0,PK-5,66
+23060,Springfield Park Elementary School,6.0,PK-5,24
+23487,Windsor Elementary School,6.0,PK-5,49
+23110,King & Queen Elementary School,6.0,PK-7,50
+22485,Potomac Elementary School,6.0,K-6,32
+23086,Acquinton Elementary School,6.0,3-5,34
+24277,Elk Knob Elementary School,6.0,PK-5,72
+24263,Flatwoods Elementary School,6.0,PK-5,69
+20147,Ashburn Elementary School,6.0,PK-5,13
+20158,Hamilton Elementary School,6.0,PK-5,5
+20164,Meadowland Elementary School,6.0,PK-5,39
+23117,Jouett Elementary School,6.0,PK-5,45
+24501,T.C. Miller Elementary For Innovat.,6.0,PK-5,93
+24503,Paul Munro Elementary School,6.0,PK-5,42
+20110,George Carr Round Elementary School,6.0,PK-4,53
+24060,Harding Avenue Elementary School,6.0,K-5,20
+24073,Christiansburg Elementary School,6.0,3-5,46
+23124,New Kent Elementary School,6.0,PK-5,27
+23602,Kiln Creek Elementary School,6.0,PK-5,50
+23608,R.O. Nelson Elementary School,6.0,PK-5,51
+23505,Camp Allen Elementary School,6.0,PK-5,58
+23503,Mary Calcott Elementary School,6.0,PK-5,42
+24273,Norton Elementary School,6.0,PK-7,69
+24171,Stuart Elementary School,6.0,PK-7,50
+23703,Churchland Academy Elementary,6.0,K-6,77
+20169,Mountain View Elementary School,6.0,PK-5,5
+22025,John F. Pattie Sr. Elementary School,6.0,PK-5,23
+22193,Minnieville Elementary School,6.0,PK-5,72
+22192,Westridge Elementary School,6.0,PK-5,18
+24141,Belle Heth Elementary School,6.0,3-6,41
+23222,J.E.B. Stuart Elementary School,6.0,PK-5,96
+23226,Mary Munford Elementary School,6.0,PK-5,98
+23220,George W. Carver Elementary School,6.0,PK-5,98
+22572,Richmond County Elementary School,6.0,PK-7,57
+24015,Wasena Elementary School,6.0,PK-5,62
+24017,Fairview Elementary School,6.0,PK-5,98
+24014,Garden City Elementary School,6.0,PK-5,98
+24014,Clearbrook Elementary School,6.0,PK-5,30
+24153,Glenvar Elementary School,6.0,PK-5,37
+24153,Mason's Cove Elementary School,6.0,PK-5,33
+24019,Mountain View Elementary School,6.0,PK-5,31
+24018,Oak Grove Elementary School,6.0,PK-5,33
+24450,Central Elementary School,6.0,PK-5,39
+24579,Natural Bridge Elementary School,6.0,PK-5,61
+24441,South River Elementary School,6.0,PK-5,47
+22834,Linville-Edom Elementary School,6.0,PK-5,36
+22821,Ottobine Elementary School,6.0,PK-5,53
+24649,Swords Creek Elementary School,6.0,3-7,61
+24245,Dungannon Intermediate School,6.0,4-7,70
+24251,Shoemaker Elementary School,6.0,PK-6,63
+22407,Smith Station Elementary School,6.0,PK-5,37
+22553,Courthouse Rd Elementary School,6.0,PK-5,33
+22551,Berkeley Elementary School,6.0,PK-5,57
+22406,Hartwood Elementary School,6.0,PK-5,34
+22554,Winding Creek Elementary School,6.0,PK-5,18
+24401,A. R. Ware Elementary School,6.0,K-5,52
+23435,Northern Shores Elementary School,6.0,PK-5,19
+23435,Driver Elementary School,6.0,PK-5,30
+23434,Oakland Elementary School,6.0,PK-5,42
+24605,Graham Intermediate School,6.0,3-5,42
+24639,Raven Elementary School,6.0,K-5,86
+23453,Christopher Farms Elementary School,6.0,PK-5,28
+23452,Brookwood Elementary School,6.0,PK-5,58
+23464,College Park Elementary School,6.0,PK-5,69
+23452,King's Grant Elementary School,6.0,PK-5,40
+23455,Pembroke Meadows Elementary School,6.0,PK-5,43
+23462,Point O' View Elementary School,6.0,PK-5,51
+23451,W.T. Cooke Elementary School,6.0,PK-5,41
+23452,Windsor Woods Elementary School,6.0,PK-5,40
+23464,Providence Elementary School,6.0,PK-5,33
+23456,Rosemont Forest Elementary School,6.0,PK-5,32
+24210,Abingdon Elementary School,6.0,PK-5,43
+24312,Jackson Memorial Elementary School,6.0,PK-5,52
+23185,Magruder Elementary School,6.0,PK-5,34
+22204,Hoffman-Boston Elementary School,6.0,PK-5,53
+23112,Spring Run Elementary School,6.0,PK-5,14
+20165,Horizon Elementary School,6.0,PK-5,9
+20147,Cedar Lane Elementary School,6.0,PK-5,23
+23456,New Castle Elementary School,6.0,PK-5,19
+24095,Goodview Elementary School,6.0,PK-5,51
+24175,Greenfield Elementary School,6.0,PK-5,28
+23116,Pole Green Elementary School,6.0,PK-5,9
+23874,Meherrin Elementary School,6.0,PK-5,52
+20171,Mcnair Elementary School,6.0,PK-6,14
+20176,John W. Tolbert Jr. Elementary School,6.0,PK-5,18
+22026,Swans Creek Elementary School,6.0,PK-5,50
+22315,Island Creek Elementary School,6.0,PK-6,10
+22030,Eagle View Elementary School,6.0,PK-6,16
+20155,Glenkirk Elementary School,6.0,PK-5,5
+22193,Rosa Parks Elementary School,6.0,PK-5,34
+20105,Arcola Elementary School,6.0,PK-5,6
+22302,Charles Barrett Elementary School,6.0,PK-5,33
+24572,Elon Elementary School,6.0,PK-5,30
+22207,Glebe Elementary School,6.0,PK-5,15
+22204,Henry Elementary School,6.0,PK-5,38
+22201,Long Branch Elementary School,6.0,PK-5,31
+24445,Valley Elementary School,6.0,PK-7,49
+24556,Otter River Elementary School,6.0,PK-5,32
+24551,Forest Elementary School,6.0,K-5,9
+24315,Bland Elementary School,6.0,PK-6,39
+24502,Leesville Road Elementary School,6.0,PK-5,44
+24328,Fancy Gap Elementary School,6.0,PK-5,49
+24343,Hillsville Elementary School,6.0,PK-5,61
+24333,Oakland Elementary School,6.0,PK-5,78
+23959,Phenix Elementary School,6.0,PK-5,53
+23321,Edwin W. Chittum Elementary School,6.0,PK-5,10
+23323,Deep Creek Central Elementary School,6.0,PK-5,19
+23235,Bon Air Elementary School,6.0,PK-5,31
+23831,Child Care Wells Elementary School,6.0,PK-5,29
+23225,Crestwood Elementary School,6.0,PK-5,55
+23112,Clover Hill Elementary School,6.0,PK-5,16
+23236,Providence Elementary School,6.0,PK-5,49
+23834,North Elementary School,6.0,PK-5,64
+24228,Clintwood Elementary School,6.0,PK-5,53
+23841,Southside Elementary School,6.0,PK-5,81
+23872,Sunnyside Elementary School,6.0,K-5,64
+22312,Bren Mar Park Elementary School,6.0,PK-5,61
+22310,Bush Hill Elementary School,6.0,PK-6,25
+22310,Clermont Elementary School,6.0,PK-6,15
+22031,Fairhill Elementary School,6.0,PK-6,21
+22310,Franconia Elementary School,6.0,PK-6,27
+22101,Sherman Elementary School,6.0,PK-6,2
+22033,Greenbriar East Elementary School,6.0,PK-6,20
+22033,Greenbriar West Elementary School,6.0,PK-6,11
+22032,Laurel Ridge Elementary School,6.0,PK-6,8
+22180,Marshall Road Elementary School,6.0,PK-6,19
+22032,Oak View Elementary School,6.0,PK-6,6
+22152,Rolling Valley Elementary School,6.0,PK-6,21
+22043,Shrevewood Elementary School,6.0,PK-6,21
+22044,Sleepy Hollow Elementary School,6.0,PK-5,59
+22315,Lane Elementary School,6.0,PK-6,20
+22015,White Oaks Elementary School,6.0,PK-6,13
+22039,Silverbrook Elementary School,6.0,PK-6,7
+22046,Thomas Jefferson Elementary School,6.0,2-5,7
+22712,Grace Miller Elementary School,6.0,PK-5,32
+24184,Dudley Elementary School,6.0,PK-5,43
+24151,Lee M. Waid Elementary School,6.0,PK-5,64
+24124,Narrows Elementary/Middle School,6.0,PK-7,57
+23072,Abingdon Elementary School,6.0,PK-5,43
+23072,Achilles Elementary School,6.0,PK-5,41
+23063,Byrd Elementary School,6.0,PK-5,42
+23063,Goochland Elementary School,6.0,PK-5,24
+23039,Randolph Elementary School,6.0,PK-5,26
+24348,Independence Elementary School,6.0,K-5,65
+23669,Samuel P. Langley Elementary School,6.0,PK-5,46
+23666,Tucker-Capps Elementary School,6.0,PK-5,31
+23111,Battlefield Park Elementary School,6.0,PK-5,13
+23231,Baker Elementary School,6.0,PK-5,66
+23223,Adams Elementary School,6.0,PK-5,80
+23238,Pemberton Elementary School,6.0,PK-5,22
+23238,Pinchbeck Elementary School,6.0,PK-5,37
+23294,Longan Elementary School,6.0,PK-5,53
+20169,Haymarket Elementary School,6.0,K-5,13
+22846,Cub Run Elementary School,5.0,PK-5,44
+24378,Grayson Highlands School,5.0,PK-7,71
+23661,Hunter B. Andrews,5.0,PK-8,84
+22079,Laurel Hill Elementary School,5.0,PK-6,15
+24054,Axton Elementary School,5.0,PK-5,87
+22003,Mason Crest Elementary School,5.0,PK-5,50
+23150,Seven Pines Elementary School,5.0,PK-5,48
+23294,Skipwith Elementary School,5.0,PK-5,53
+23223,Arthur Ashe Jr. Elementary School,5.0,PK-5,70
+24148,Drewry Mason Elementary School,5.0,PK-5,85
+24055,Sanville Elementary School,5.0,PK-5,83
+24168,Stanleytown Elementary School,5.0,PK-5,87
+23148,Lawson-Marriott Elementary School,5.0,PK-7,45
+22485,King George Elementary School,5.0,PK-6,37
+20105,Aldie Elementary School,5.0,PK-5,14
+20117,Banneker Elementary School,5.0,PK-5,33
+20175,Catoctin Elementary School,5.0,PK-5,20
+20176,Lucketts Elementary School,5.0,PK-5,22
+20164,Rolling Ridge Elementary School,5.0,PK-5,64
+20164,Sugarland Elementary School,5.0,PK-5,74
+20197,Waterford Elementary School,5.0,PK-5,2
+20147,Sanders Corner Elementary School,5.0,PK-5,11
+20147,Dominion Trail Elementary School,5.0,PK-5,19
+23093,Trevilians Elementary School,5.0,PK-5,55
+23927,Clarksville Elementary School,5.0,PK-5,60
+23970,South Hill Elementary School,5.0,PK-5,64
+24060,Margaret Beeks Elementary School,5.0,PK-5,30
+24149,Auburn Elementary School,5.0,PK-5,47
+23141,George W. Watkins Elementary School,5.0,PK-5,22
+23503,Bay View Elementary School,5.0,PK-5,51
+23509,Willard Model Elementary School,5.0,PK-5,99
+23505,Crossroads School,5.0,PK-8,58
+23517,Ghent Elementary School,5.0,K-8,28
+23502,Ingleside Elementary School,5.0,PK-5,99
+23505,Suburban Park Elementary School,5.0,PK-5,99
+22960,Orange Elementary School,5.0,PK-5,59
+24082,Hardin Reynolds Elementary School,5.0,4-7,58
+23805,Walnut Hill Elementary School,5.0,K-5,92
+24540,Twin Springs Elementary School,5.0,PK-5,47
+23139,Pocahontas Elementary School,5.0,PK-5,26
+23875,North Elementary School,5.0,PK-5,47
+22025,Montclair Elementary School,5.0,PK-5,35
+22193,Bel Air Elementary School,5.0,PK-5,78
+20112,Coles Elementary School,5.0,PK-5,36
+20155,George G. Tyler Elementary School,5.0,PK-5,18
+20111,Loch Lomond Elementary School,5.0,PK-5,80
+22192,Rockledge Elementary School,5.0,PK-5,42
+22193,Sonnie Penn Elementary School,5.0,PK-5,36
+20136,Bristow Run Elementary School,5.0,PK-5,15
+22193,Martin Luther King Jr. Elementary School,5.0,PK-5,51
+22192,Lake Ridge Elementary School,5.0,PK-5,32
+22192,Springwoods Elementary School,5.0,PK-5,24
+22191,River Oaks Elementary School,5.0,PK-5,64
+22192,Antietam Elementary School,5.0,PK-5,30
+22747,Rappahannock County Elementary School,5.0,PK-7,34
+23223,Fairfield Court Elementary School,5.0,PK-5,96
+23220,William Fox Elementary School,5.0,PK-5,98
+23234,Broad Rock Elementary School,5.0,PK-5,97
+24013,Fallon Park Elementary School,5.0,PK-5,99
+24012,Round Hill Elementary School,5.0,PK-5,98
+24012,Lincoln Terrace Elementary School,5.0,PK-5,99
+24016,Highland Park Elementary School,5.0,PK-5,99
+24012,Preston Park Elementary School,5.0,PK-5,99
+24179,W.E. Cundiff Elementary School,5.0,PK-5,39
+24153,Fort Lewis Elementary School,5.0,PK-5,21
+22840,Mcgaheysville Elementary School,5.0,PK-5,33
+24224,Castlewood Elementary School,5.0,1-7,71
+24153,West Salem Elementary School,5.0,K-5,21
+24153,East Salem Elementary School,5.0,PK-5,43
+24311,Atkins Elementary School,5.0,PK-5,72
+24375,Sugar Grove Combined,5.0,PK-5,73
+23837,Riverdale Elementary School,5.0,PK-5,51
+22553,Brock Road Elementary School,5.0,PK-5,33
+22407,Battlefield Elementary School,5.0,PK-5,45
+22553,Robert E. Lee Elementary School,5.0,PK-5,43
+22408,Spotswood Elementary School,5.0,PK-5,54
+22556,Anne E. Moncure Elementary School,5.0,PK-5,25
+22405,Falmouth Elementary School,5.0,PK-5,32
+22405,Ferry Farm Elementary School,5.0,PK-5,33
+22405,Grafton Village Elementary School,5.0,PK-5,22
+22554,Stafford Elementary School,5.0,PK-5,22
+24401,Thomas C. Mcswain Elementary School,5.0,K-5,49
+24605,Abbs Valley-Boissevain Elementary School,5.0,PK-5,72
+23462,Kempsville Meadows Elementary School,5.0,PK-5,38
+23455,Luxford Elementary School,5.0,PK-5,52
+23462,Newtown Elementary School,5.0,2-3,74
+23452,Thalia Elementary School,5.0,PK-5,45
+23462,White Oaks Elementary School,5.0,PK-5,48
+23452,Windsor Oaks Elementary School,5.0,PK-5,59
+23464,Woodstock Elementary School,5.0,PK-5,40
+22630,A.S. Rhodes Elementary School,5.0,K-5,39
+23185,Matthew Whaley Elementary School,5.0,K-5,42
+23188,Norge Elementary School,5.0,PK-5,41
+23188,Rawls Byrd Elementary School,5.0,PK-5,47
+23188,D.J. Montague Elementary School,5.0,K-5,32
+23692,Yorktown Elementary School,5.0,PK-5,43
+22920,Rockfish River Elementary School,5.0,PK-5,51
+22304,Samuel W. Tucker Elementary School,5.0,PK-5,60
+22602,Orchard View Elementary School,5.0,PK-5,33
+22406,Rocky Run Elementary School,5.0,PK-5,36
+20152,Hutchison Farm Elementary School,5.0,PK-5,8
+22407,Parkside Elementary School,5.0,PK-5,32
+23607,Achievable Dream Academy,5.0,PK-5,99
+20176,Frances Hazel Reid Elementary School,5.0,PK-5,32
+20165,Countryside Elementary School,5.0,PK-5,30
+24541,Brosville Elementary School,5.0,PK-5,61
+23435,Creekside Elementary School,5.0,PK-5,44
+22191,Mary Williams Elementary School,5.0,PK-5,41
+24112,Mt. Olivet Elementary School,5.0,PK-5,83
+24301,Pulaski Elementary School,5.0,PK-5,80
+22485,Sealston Elementary School,5.0,K-6,30
+20136,Victory Elementary School,5.0,PK-5,23
+24330,Fries School,5.0,PK-7,76
+23336,Chincoteague Elementary School,5.0,PK-5,48
+22932,Brownsville Elementary School,5.0,PK-5,13
+22911,Stone Robinson Elementary School,5.0,PK-5,28
+22301,Maury Elementary School,5.0,PK-5,33
+22304,Patrick Henry Elementary School,5.0,PK-5,78
+24426,Callaghan Elementary School,5.0,PK-5,52
+24521,Amherst Elementary School,5.0,PK-5,35
+22201,Francis Scott Key Elementary School,5.0,PK-5,43
+22204,Carlin Springs Elementary School,5.0,PK-5,83
+22202,Oakridge Elementary School,5.0,PK-5,25
+22980,Cassell Elementary School,5.0,PK-5,52
+24437,Edward G. Clymore Elementary School,5.0,PK-5,42
+24503,Boonsboro Elementary School,5.0,K-5,23
+24551,New London Academy Elementary,5.0,PK-5,27
+24175,Troutville Elementary School,5.0,PK-5,30
+24201,Stonewall Jackson Elementary School,5.0,PK-5,98
+24201,Washington Lee Elementary School,5.0,PK-5,98
+24614,Jm Bevins Elementary School,5.0,PK-5,88
+24588,Yellow Branch Elementary School,5.0,PK-5,46
+24343,Gladesboro Elementary School,5.0,PK-5,58
+22901,Greenbrier Elementary School,5.0,PK-4,47
+23322,Hickory Elementary School,5.0,PK-5,26
+23234,Falling Creek Elementary School,5.0,PK-5,76
+23831,Harrowgate Elementary School,5.0,PK-5,64
+23234,J G Hening Elementary School,5.0,PK-5,47
+23237,Salem Church Elementary School,5.0,PK-5,50
+23114,Evergreen Elementary,5.0,PK-5,17
+23832,Jacobs Road Elementary School,5.0,PK-5,41
+23831,Ecoff Elementary School,5.0,PK-5,38
+24127,Mccleary Elementary School,5.0,PK-5,62
+22701,Emerald Hill Elementary School,5.0,PK-5,30
+23040,Cumberland Elementary School,5.0,PK-4,74
+24256,Sandlick Elementary School,5.0,PK-5,66
+23841,Dinwiddie Elementary School,5.0,K-5,51
+23885,Sutherland Elementary School,5.0,K-5,54
+22042,Beech Tree Elementary School,5.0,PK-5,57
+22003,Columbia Elementary School,5.0,PK-5,35
+22030,Fairfax Villa Elementary School,5.0,PK-6,26
+20190,Forest Edge Elementary School,5.0,PK-6,41
+22182,Freedom Hill Elementary School,5.0,PK-6,23
+22079,Gunston Elementary School,5.0,PK-6,33
+22315,Hayfield Elementary School,5.0,PK-6,10
+20191,Hunters Woods Elementary,5.0,PK-6,18
+22151,Kings Park Elementary School,5.0,PK-3,23
+22032,Little Run Elementary School,5.0,PK-6,27
+22180,Louise Archer Elementary School,5.0,PK-6,11
+22151,North Springfield Elementary School,5.0,PK-5,37
+22032,Olde Creek Elementary School,5.0,PK-6,18
+22308,Stratford Landing Elementary School,5.0,PK-6,17
+22043,Westgate Elementary School,5.0,PK-6,30
+22015,Cherry Run Elementary School,5.0,PK-6,4
+20120,Cub Run Elementary School,5.0,PK-6,15
+22032,Bonnie Brae Elementary School,5.0,PK-6,15
+20186,C.M. Bradley Elementary School,5.0,PK-5,23
+22734,Margaret M. Pierce Elementary School,5.0,PK-5,33
+22712,Mary Walter Elementary School,5.0,PK-5,53
+20187,C. Hunter Ritchie Elementary School,5.0,PK-5,13
+24091,Floyd Elementary School,5.0,PK-7,52
+24380,Willis Elementary School,5.0,PK-7,59
+24088,Ferrum Elementary School,5.0,PK-5,78
+24151,Sontag Elementary School,5.0,PK-5,85
+22603,Apple Pie Ridge Elementary School,5.0,PK-5,48
+24333,Galax Elementary School,5.0,PK-4,72
+24134,Macy McClaugherty Elementary/Middle School,5.0,PK-7,55
+24136,Eastern Elementary/Middle School,5.0,PK-7,48
+22973,Nathanael Greene Elementary School,5.0,3-5,45
+23015,Beaverdam Elementary School,5.0,PK-5,23
+23111,Mechanicsville Elementary School,5.0,PK-5,44
+23111,Cold Harbor Elementary School,5.0,PK-5,26
+23192,South Anna Elementary School,5.0,PK-5,21
+23229,Maybeury Elementary School,5.0,PK-5,30
+23238,Ruby F. Carver Elementary School,5.0,PK-5,42
+20147,Discovery Elementary,5.0,PK-5,16
+20136,Chris Yung Elementary,5.0,PK-5,38
+20181,Greenville Elementary School,4.0,PK-5,11
+23139,Flat Rock Elementary School,4.0,PK-5,16
+22193,Fannie W. Fitzgerald Elementary School,4.0,PK-5,62
+22408,Cedar Forest Elementary School,4.0,PK-5,42
+20171,Coates Elementary,4.0,PK-6,45
+22602,Greenwood Mill Elementary School,4.0,PK-5,25
+23188,J Blaine Blayton Elementary School,4.0,PK-5,39
+20176,Tuscarora High School,4.0,PK-12,20
+20175,Frederick Douglass Elementary School,4.0,PK-5,33
+24078,John Redd Smith Elementary School,4.0,3-5,89
+24112,Carver Elementary School,4.0,PK-5,84
+23860,Patrick Copeland Elementary School,4.0,K-5,91
+23314,Carrollton Elementary School,4.0,PK-3,28
+23430,Hardy Elementary School,4.0,PK-3,53
+22503,Lancaster Primary School,4.0,PK-3,79
+20180,Lovettsville Elementary School,4.0,PK-5,10
+20164,Sterling Elementary School,4.0,PK-5,56
+20176,Ball's Bluff Elementary School,4.0,PK-5,26
+24502,Perrymont Elementary School,4.0,PK-5,87
+24501,Robert S. Payne Elementary School,4.0,PK-5,86
+24502,Sandusky Elementary School,4.0,PK-5,88
+24502,Sheffield Elementary School,4.0,PK-5,86
+22727,Waverly Yowell Elementary School,4.0,3-5,50
+23109,Lee-Jackson Elementary School,4.0,PK-4,47
+23950,Lacrosse Elementary School,4.0,PK-5,66
+24073,Falling Branch Elementary School,4.0,PK-5,42
+23608,David A. Dutrow Elementary School,4.0,PK-5,54
+23608,Richneck Elementary School,4.0,PK-5,51
+23602,Willis A. Jenkins Elementary School,4.0,PK-5,77
+23505,Granby Elementary School,4.0,PK-5,99
+23503,Oceanair Elementary School,4.0,PK-5,99
+23350,Occohannock Elementary School,4.0,PK-6,77
+23824,Blackstone Primary School,4.0,PK-4,63
+23930,Crewe Primary School,4.0,1-4,67
+22567,Lightfoot Elementary School,4.0,3-5,49
+22849,Shenandoah Elementary School,4.0,PK-5,54
+22650,Springfield Elementary School,4.0,PK-5,54
+23703,Churchland Elementary School,4.0,K-6,35
+23703,Churchland Primary & Intermediate School,4.0,K-6,48
+23702,James Hurst Elementary School,4.0,K-6,99
+23701,Lakeview Elementary School,4.0,K-6,99
+23707,Simonsdale Elementary School,4.0,K-6,50
+22191,Belmont Elementary School,4.0,PK-5,67
+20109,C.A. Sinclair Elementary School,4.0,PK-5,79
+22026,Dumfries Elementary School,4.0,PK-5,75
+20111,Signal Hill Elementary School,4.0,PK-5,25
+22191,Potomac View Elementary School,4.0,PK-5,86
+20109,Sudley Elementary School,4.0,PK-5,61
+22172,Triangle Elementary School,4.0,PK-5,59
+20109,West Gate Elementary School,4.0,PK-5,87
+22191,Leesylvania Elementary School,4.0,PK-5,40
+22193,Sharon C. Mcauliffe Elementary School,4.0,PK-5,43
+24301,Critzer Elementary School,4.0,PK-5,80
+24141,Riverlawn Elementary School,4.0,PK-5,52
+23225,Elizabeth D. Redd Elementary School,4.0,PK-5,99
+23221,John B. Cary Elementary School,4.0,PK-5,98
+23225,Southampton Elementary School,4.0,PK-5,97
+23235,J.B. Fisher Elementary School,4.0,PK-5,99
+24013,Morningside Elementary School,4.0,PK-5,99
+24017,Roanoke Academy For Math & Science Elementary,4.0,PK-5,98
+24019,Burlington Elementary School,4.0,PK-5,55
+22853,Plains Elementary School,4.0,PK-5,51
+22802,Lacey Spring Elementary School,4.0,PK-5,43
+22551,Riverview Elementary School,4.0,PK-5,46
+22551,Livingston Elementary School,4.0,PK-5,57
+22553,Wilderness Elementary School,4.0,PK-5,36
+22407,Salem Elementary School,4.0,PK-5,61
+22407,Courtland Elementary School,4.0,PK-5,38
+22554,Hampton Oaks Elementary School,4.0,PK-5,56
+22554,Park Ridge Elementary School,4.0,PK-5,23
+23434,Kilby Shores Elementary School,4.0,PK-5,45
+23839,Surry Elementary School,4.0,PK-4,64
+24630,Springville Elementary School,4.0,K-5,61
+23453,Green Run Elementary School,4.0,PK-5,65
+23451,Birdneck Elementary School,4.0,PK-5,70
+23453,Parkway Elementary School,4.0,PK-5,71
+22630,Hilda J. Barbour Elementary School,4.0,K-5,42
+22980,Westwood Hills Elementary School,4.0,K-5,44
+23185,Clara Byrd Baker Elementary School,4.0,PK-5,34
+24382,Spiller Elementary School,4.0,PK-5,49
+24477,Guy K Stump Elementary School,4.0,PK-5,35
+20121,Bull Run Elementary School,4.0,PK-6,30
+24551,Thomas Jefferson Elementary School,4.0,PK-5,20
+24631,Twin Valley Elementary/Middle School,4.0,PK-7,66
+22030,Providence Elementary School,4.0,PK-6,39
+22802,Mountain View Elementary School,4.0,PK-5,46
+22911,Baker-Butler Elementary School,4.0,PK-5,20
+22206,Claremont Immersion,4.0,PK-5,37
+20164,Dominion High School,4.0,PK-12,24
+20132,Mountain View Elementary School,4.0,PK-5,12
+22405,Conway Elementary School,4.0,PK-5,30
+23701,Victory Elementary School,4.0,K-6,57
+24520,Cluster Springs Elementary School,4.0,K-5,51
+24592,South Boston Elementary School,4.0,K-5,63
+22302,George Mason Elementary School,4.0,PK-5,31
+22304,James K Polk Elementary School,4.0,PK-5,67
+23002,Amelia County Elementary School,4.0,PK-4,50
+24522,Appomattox Elementary School,4.0,3-5,50
+22206,Abingdon Elementary School,4.0,PK-5,47
+22203,Barrett Elementary School,4.0,PK-5,57
+22206,Drew Model Elementary School,4.0,PK-5,54
+24401,Beverley Manor Elementary School,4.0,PK-5,44
+24421,Churchville Elementary School,4.0,PK-5,41
+22843,North River Elementary School,4.0,PK-5,44
+24401,Riverheads Elementary School,4.0,PK-5,44
+24104,Huddleston Elementary School,4.0,PK-5,53
+24121,Moneta Elementary School,4.0,PK-5,58
+24523,Bedford Elementary School,4.0,2-5,50
+24066,Buchanan Elementary School,4.0,PK-5,45
+24201,Joseph Van Pelt Elementary School,4.0,PK-5,75
+22443,Colonial Beach Elementary School,4.0,PK-7,67
+24620,Hurley Elementary/Middle School,4.0,PK-7,82
+24517,Altavista Elementary School,4.0,PK-5,59
+24538,Concord Elementary School,4.0,PK-5,45
+24317,St Paul School,4.0,PK-7,70
+23030,Charles City Co Elementary School,4.0,PK-6,61
+23967,Bacon District Elementary School,4.0,PK-5,75
+22903,Johnson Elementary School,4.0,PK-4,62
+22903,Walker Upper Elementary School,4.0,5-6,55
+22903,Venable Elementary School,4.0,PK-4,39
+23320,Crestwood Intermediate School,4.0,3-5,45
+23323,Deep Creek Elementary School,4.0,PK-5,37
+23323,G.A. Treakle Elementary School,4.0,PK-5,61
+23325,Georgetown Primary School,4.0,PK-3,59
+23325,Norfolk Highlands Primary School,4.0,PK-3,44
+23321,Western Branch Intermediate School,4.0,3-5,29
+23831,C E Curtis Elementary School,4.0,PK-5,32
+23803,Ettrick Elementary School,4.0,PK-5,65
+23832,J A Chalkley Elementary School,4.0,PK-5,74
+23236,Reams Road Elementary School,4.0,PK-5,49
+23112,Thelma Crenshaw Elementary School,4.0,PK-5,43
+22620,Boyce Elementary School,4.0,K-5,34
+23834,Lakeview Elementary School,4.0,PK-5,56
+23834,Tussing Elementary School,4.0,PK-5,48
+22701,A G Richardson Elementary School,4.0,PK-5,45
+24541,Forest Hills Elementary School,4.0,K-5,92
+22307,Belle View Elementary School,4.0,PK-6,32
+22307,Bucknell Elementary School,4.0,PK-6,72
+22152,Cardinal Forest Elementary School,4.0,PK-6,27
+22180,Cunningham Park Elementary School,4.0,PK-6,29
+22150,Garfield Elementary School,4.0,PK-6,58
+22041,Glen Forest Elementary School,4.0,PK-5,71
+20190,Lake Anne Elementary School,4.0,PK-6,31
+20120,London Towne Elementary School,4.0,PK-6,45
+22309,Riverside Elementary School,4.0,PK-6,64
+20191,Terraset Elementary School,4.0,PK-6,32
+22309,Washington Mill Elementary School,4.0,PK-6,49
+22042,Westlawn Elementary School,4.0,PK-6,66
+22042,Woodburn Elementary School,4.0,PK-6,59
+20194,Aldrin Elementary School,4.0,PK-6,15
+20120,Deer Park Elementary School,4.0,PK-6,21
+20121,Centreville Elementary School,4.0,PK-6,19
+22039,Halley Elementary School,4.0,PK-6,31
+20170,Clearview Elementary School,4.0,PK-6,44
+22153,Newington Forest Elementary School,4.0,PK-6,30
+22153,Saratoga Elementary School,4.0,PK-6,42
+20120,Virginia Run Elementary School,4.0,PK-6,34
+20121,Centre Ridge Elementary School,4.0,PK-6,45
+20119,H.M. Pearson Elementary School,4.0,PK-5,37
+20198,W.G. Coleman Elementary School,4.0,PK-5,36
+23055,Carrysbrook Elementary,4.0,3-4,35
+24092,Glade Hill Elementary School,4.0,PK-5,64
+22602,Armel Elementary School,4.0,PK-5,23
+22655,Bass-Hoover Elementary School,4.0,PK-5,38
+24589,Scottsburg Elementary School,4.0,PK-5,68
+24577,Sydnor Jennings Elementary School,4.0,PK-5,73
+23669,Captain John Smith Elementary School,4.0,PK-5,65
+23664,Francis Asbury Elementary School,4.0,PK-5,34
+23663,Jane H. Bryan Elementary School,4.0,PK-5,88
+23666,Luther W. Machen Elementary School,4.0,PK-5,86
+23666,Paul Burbank Elementary School,4.0,PK-5,54
+23666,William Mason Cooper Elementary School,4.0,PK-5,41
+23005,Elmont Elementary School,4.0,PK-5,34
+23005,John M. Gandy Elementary School,4.0,3-5,48
+23116,Washington-Henry Elementary School,4.0,PK-5,16
+22801,Stone Spring Elementary School,4.0,PK-4,72
+23150,Donahoe Elementary School,4.0,PK-5,65
+23228,Lakeside Elementary School,4.0,PK-5,68
+23150,Sandston Elementary School,4.0,PK-5,73
+22802,Smithland Elementary School,3.0,PK-4,69
+23434,Hillpoint Elementary School,3.0,PK-5,57
+24087,Eastern Montgomery Elementary School,3.0,PK-5,65
+23093,Moss-Nuckols Elementary School,3.0,PK-5,38
+23231,Ward Elementary School,3.0,PK-5,63
+24055,Campbell Court Elementary School,3.0,PK-5,84
+23860,Harry E. James Elementary School,3.0,K-5,91
+23860,Dupont Elementary School,3.0,K-5,90
+20164,Sully Elementary School,3.0,PK-5,77
+20165,Potowmack Elementary School,3.0,PK-5,31
+20176,Leesburg Elementary School,3.0,PK-5,26
+20175,Cool Spring Elementary School,3.0,PK-5,29
+23093,Thomas Jefferson Elementary School,3.0,PK-5,67
+23974,Victoria Elementary School,3.0,PK-5,69
+24503,Bedford Hills Elementary School,3.0,PK-5,38
+24501,Dearington Elem/Innovation,3.0,PK-5,98
+20110,Baldwin Elementary School,3.0,PK-4,72
+23924,Chase City Elementary School,3.0,PK-5,74
+24060,Prices Fork Elementary School,3.0,PK-5,51
+23602,B.C. Charles Elementary School,3.0,PK-5,50
+23602,L.F. Palmer Elementary School,3.0,PK-5,78
+23606,Richard T. Yates Elementary School,3.0,PK-5,46
+23606,Riverside Elementary School,3.0,PK-5,44
+23602,T. Ryland Sanford Elementary School,3.0,PK-5,65
+23502,Fairlawn Elementary School,3.0,3-5,69
+23518,Little Creek Elementary School,3.0,PK-5,57
+23513,Norview Elementary School,3.0,PK-5,99
+23503,Ocean View Elementary School,3.0,PK-5,64
+23513,Sherwood Forest Elementary School,3.0,PK-5,61
+23523,St. Helena Elementary School,3.0,PK-5,98
+23507,W.H. Taylor Elementary School,3.0,PK-5,32
+23513,Tanners Creek Elementary School,3.0,PK-5,99
+22942,Gordon Barbour Elementary School,3.0,PK-5,58
+22851,Stanley Elementary School,3.0,PK-5,63
+23701,Hodges Manor Elementary School,3.0,K-6,60
+23704,Park View Elementary School,3.0,K-6,98
+22193,Dale City Elementary School,3.0,PK-5,75
+22193,Kerrydale Elementary School,3.0,PK-5,71
+22191,Marumsco Hills Elementary School,3.0,PK-5,79
+20109,George P. Mullen Elementary School,3.0,PK-5,68
+23227,Ginter Park Elementary School,3.0,PK-5,97
+23223,Bellevue Elementary School,3.0,PK-5,98
+24015,Fishburn Park Elementary School,3.0,PK-5,63
+24017,Westside Elementary School,3.0,PK-5,99
+22830,Fulks Run Elementary School,3.0,PK-5,52
+22815,John C. Myers Elementary School,3.0,PK-5,45
+24153,G.W. Carver Elementary School,3.0,K-5,45
+22847,Ashby Lee Elementary School,3.0,PK-5,58
+24319,Chilhowie Elementary School,3.0,PK-5,55
+22408,Lee Hill Elementary School,3.0,PK-5,37
+22556,Garrisonville Elementary School,3.0,PK-5,25
+22554,Widewater Elementary School,3.0,PK-5,44
+23434,Nansemond Parkway Elementary School,3.0,PK-5,48
+23452,Lynnhaven Elementary School,3.0,PK-5,66
+23451,Seatack Elementary School,3.0,PK-5,99
+23462,Williams Elementary School,3.0,PK-5,76
+22630,Leslie Fox Keyser Elementary School,3.0,PK-5,37
+22630,Ressie Jeffries Elementary School,3.0,PK-5,50
+22469,Cople Elementary School,3.0,PK-5,94
+22443,Washington District Elementary School,3.0,PK-5,68
+23185,James River Elementary School,3.0,K-5,62
+22601,Garland R. Quarles Elementary School,3.0,PK-4,81
+22601,Virginia Ave. Charlotte Dehart Elementary School,3.0,PK-4,76
+23227,Linwood Holton Elementary School,3.0,PK-5,97
+24614,Riverview Elementary/Middle School,3.0,PK-8,62
+22030,Daniels Run Elementary School,3.0,PK-6,29
+20186,James G. Brumfield Elementary School,3.0,PK-5,30
+22407,Harrison Road Elementary School,3.0,PK-5,52
+20164,Forest Grove Elementary School,3.0,PK-5,56
+22079,Lorton Station Elementary School,3.0,PK-6,41
+24112,Albert Harris Elementary School,3.0,K-4,99
+22554,Anthony Burns Elementary School,3.0,PK-5,36
+23704,Brighton Elementary School,3.0,K-6,99
+24112,Patrick Henry Elementary School,3.0,K-4,99
+23430,Westside Elementary School,3.0,4-6,34
+23359,Kegotank Elementary School,3.0,PK-5,74
+23410,Pungoteague Elementary School,3.0,PK-5,80
+23418,Accawmacke Elementary School,3.0,PK-5,71
+22936,Broadus Wood Elementary School,3.0,PK-5,15
+22932,Crozet Elementary School,3.0,K-5,27
+22947,Stony Point Elementary School,3.0,K-5,26
+22901,Woodbrook Elementary School,3.0,PK-5,46
+22302,Douglas Macarthur Elementary School,3.0,PK-5,33
+22314,Jefferson-Houston PreK-8 School,3.0,PK-8,73
+22311,John Adams Elementary School,3.0,PK-5,66
+22305,Cora Kelly Magnet Elementary,3.0,PK-5,88
+24422,Sharon Elementary School,3.0,PK-5,46
+24572,Amelon Elementary School,3.0,PK-5,52
+24521,Central Elementary School,3.0,PK-5,71
+22204,Randolph Elementary School,3.0,PK-5,73
+24430,Craigsville Elementary School,3.0,PK-5,84
+24477,Stuarts Draft Elementary School,3.0,PK-5,46
+22939,Wilson Elementary School,3.0,PK-5,41
+24122,Montvale Elementary School,3.0,PK-5,58
+24201,Highland View Elementary School,3.0,PK-5,98
+23868,Meherrin Powellton Elementary School,3.0,PK-5,95
+23821,Red Oak-Sturgeon Elementary School,3.0,PK-5,96
+24416,Enderly Heights Elementary School,3.0,3-5,65
+22514,Bowling Green Elementary School,3.0,PK-5,68
+22546,Madison Elementary School,3.0,PK-5,63
+24312,Laurel Elementary School,3.0,PK-5,57
+22901,Burnley-Moran Elementary School,3.0,PK-4,45
+22903,Jackson-Via Elementary School,3.0,PK-4,74
+22902,Clark Elementary School,3.0,PK-4,82
+23324,George W. Carver Intermediate School,3.0,3-5,83
+23324,Thurgood Marshall Elementary School,3.0,PK-5,85
+23325,Sparrow Road Intermediate School,3.0,4-5,57
+23320,Greenbrier Intermediate School,3.0,3-5,25
+23834,Marguerite F Christian Elementary School,3.0,PK-5,52
+22611,D G Cooley Elementary School,3.0,PK-5,22
+24426,Jeter-Watson Intermediate School,3.0,4-7,55
+22701,Farmington Elementary School,3.0,PK-5,56
+22701,Pearl Sample Elementary School,3.0,PK-5,64
+24541,Park Avenue Elementary School,3.0,K-5,94
+22560,Tappahannock Elementary School,3.0,PK-4,71
+22003,Braddock Elementary School,3.0,PK-5,68
+20151,Brookfield Elementary School,3.0,PK-6,51
+22303,Cameron Elementary School,3.0,PK-6,61
+22150,Crestwood Elementary School,3.0,PK-6,66
+22150,Forestdale Elementary School,3.0,PK-6,49
+22308,Fort Hunt Elementary School,3.0,PK-6,32
+22042,Graham Road Elementary School,3.0,PK-6,79
+22306,Groveton Elementary School,3.0,PK-6,68
+22306,Hollin Meadows Elementary School,3.0,PK-6,49
+22306,Hybla Valley Elementary School,3.0,PK-6,89
+22312,Parklawn Elementary School,3.0,PK-5,64
+22310,Rose Hill Elementary School,3.0,PK-6,39
+22046,Timber Lane Elementary School,3.0,PK-6,55
+22312,Weyanoke Elementary School,3.0,PK-5,79
+22309,Woodlawn Elementary School,3.0,PK-6,57
+22060,Fort Belvoir Elementary School,3.0,PK-3,23
+20194,Armstrong Elementary School,3.0,PK-6,9
+20170,Dranesville Elementary School,3.0,PK-6,37
+24079,Check Elementary School,3.0,PK-7,49
+24151,Rocky Mount Elementary School,3.0,PK-5,84
+22603,Gainesboro Elementary School,3.0,PK-5,37
+22624,Stonewall Elementary School,3.0,PK-5,43
+22603,Redbud Run Elementary School,3.0,PK-5,48
+22603,Indian Hollow Elementary School,3.0,PK-5,41
+22645,Middletown Elementary School,3.0,PK-5,40
+22968,Ruckersville Elementary School,3.0,K-5,35
+23666,Aberdeen Elementary School,3.0,PK-5,89
+23666,Alfred S. Forrest Elementary School,3.0,PK-5,59
+23669,Barron Elementary School,3.0,PK-5,42
+23669,Booker Elementary School,3.0,K-5,55
+23663,John B. Cary Elementary School,3.0,PK-5,90
+23669,Phillips Elementary School,3.0,K-5,42
+22802,Waterman Elementary School,3.0,PK-4,78
+23228,Dumbarton Elementary School,3.0,PK-5,71
+23222,Glen Lea Elementary School,3.0,PK-5,86
+23060,Longdale Elementary School,3.0,PK-5,68
+23936,Buckingham County Elementary School,2.0,3-5,68
+23231,Varina Elementary School,2.0,3-5,42
+22482,Lancaster Middle School,2.0,4-8,69
+20164,Guilford Elementary School,2.0,PK-5,77
+23944,Kenbridge Elementary School,2.0,PK-5,69
+24502,Heritage Elementary School,2.0,PK-5,94
+24503,Linkhorne Elementary School,2.0,PK-5,91
+20110,Jennie Dean Elementary School,2.0,PK-4,69
+20110,Richard C. Haydon Elementary School,2.0,PK-4,63
+20111,Manassas Park Elementary School,2.0,3-5,61
+23092,Middlesex Elementary School,2.0,PK-5,60
+22949,Tye River Elementary School,2.0,PK-5,60
+23606,Hidenwood Elementary School,2.0,PK-5,67
+23601,Joseph H. Saunders Elementary School,2.0,PK-5,66
+23603,Lee Hall Elementary School,2.0,PK-5,64
+23607,Newsome Park Elementary School,2.0,PK-5,97
+23608,Oliver C. Greenwood Elementary School,2.0,PK-5,60
+23504,Tidewater Park Elementary School,2.0,3-5,98
+23310,Kiptopeke Elementary School,2.0,PK-6,75
+22835,Luray Elementary School,2.0,PK-5,59
+23803,J.E.B. Stuart Elementary School,2.0,K-5,93
+23701,Douglass Park Elementary School,2.0,K-6,99
+23707,John Tyler Elementary School,2.0,K-6,99
+22191,Elizabeth Vaughan Elementary School,2.0,PK-5,71
+22193,Enterprise Elementary School,2.0,PK-5,59
+22191,Featherstone Elementary School,2.0,PK-5,78
+22193,Neabsco Elementary School,2.0,PK-5,75
+22191,R. Dean Kilby Elementary School,2.0,PK-5,75
+20111,Yorkshire Elementary School,2.0,PK-5,80
+23224,Blackwell Elementary School,2.0,PK-5,95
+23223,Chimborazo Elementary School,2.0,PK-5,99
+23224,J.L. Francis Elementary School,2.0,PK-5,98
+24016,Hurt Park Elementary School,2.0,PK-5,99
+22657,Sandy Hook Elementary School,2.0,PK-5,39
+24354,Marion Intermediate School,2.0,PK-5,67
+24401,Bessie Weller Elementary School,2.0,K-5,70
+23434,Booker T. Washington Elementary School,2.0,PK-5,94
+23434,Elephant's Fork Elementary School,2.0,PK-5,84
+23434,Mack Benn Junior Elementary School,2.0,PK-5,87
+22630,E. Wilson Morrison Elementary School,2.0,PK-5,64
+22601,Frederick Douglass Elementary School,2.0,PK-4,66
+23225,Miles Jones Elementary School,2.0,PK-5,98
+24588,Rustburg Elementary School,2.0,PK-5,61
+22602,Evendale Elementary School,2.0,PK-5,39
+22401,Lafayette Upper Elementary School,2.0,3-5,58
+20109,Suella G. Ellis Elementary School,2.0,PK-5,73
+23421,Metompkin Elementary School,2.0,PK-5,86
+22901,Agnor-Hurt Elementary School,2.0,PK-5,53
+22903,Mary Carr Greer Elementary School,2.0,PK-5,73
+22959,Red Hill Elementary School,2.0,PK-5,50
+22902,Paul H Cale Elementary School,2.0,PK-5,46
+22301,Mount Vernon Community School,2.0,PK-5,56
+24426,Mountain View Elementary School,2.0,PK-5,57
+24572,Madison Heights Elementary School,2.0,PK-5,74
+22204,Barcroft Elementary School,2.0,PK-5,68
+24482,Verona Elementary School,2.0,PK-5,54
+24260,Council Elementary/Middle School,2.0,PK-7,81
+23323,Camelot Elementary School,2.0,PK-5,64
+23321,Southwestern Elementary School,2.0,PK-5,57
+23324,Truitt Intermediate School,2.0,3-5,87
+24426,Edgemont Primary School,2.0,PK-3,58
+22701,Sycamore Park Elementary School,2.0,PK-5,71
+24541,Schoolfield Elementary,2.0,K-5,94
+24540,Woodberry Hills Elementary School,2.0,K-5,94
+20191,Dogwood Elementary School,2.0,PK-6,72
+20170,Hutchison Elementary School,2.0,PK-6,71
+20170,Herndon Elementary School,2.0,PK-6,54
+22150,Lynbrook Elementary School,2.0,PK-6,84
+22303,Mount Eagle Elementary School,2.0,PK-6,72
+22309,Mount Vernon Woods Elementary School,2.0,PK-6,78
+22042,Pine Spring Elementary School,2.0,PK-6,57
+22309,Woodley Hills Elementary School,2.0,PK-6,65
+20115,Mountainside Montessori School,2.0,PK-5,51
+23851,S.P. Morton Elementary School,2.0,PK-5,94
+24589,Clays Mill Elementary School,2.0,PK-5,64
+24577,Meadville Elementary School,2.0,PK-5,64
+23661,A.W.E. Bassette Elementary School,2.0,PK-5,86
+23669,John Tyler Elementary School,2.0,PK-5,89
+22801,Keister Elementary School,2.0,PK-4,61
+22801,Spotswood Elementary School,2.0,PK-4,86
+23230,Johnson Elementary School,2.0,PK-5,76
+23227,Chamberlayne Elementary School,2.0,PK-5,64
+23228,Holladay Elementary School,2.0,PK-5,75
+23075,Fair Oaks Elementary School,2.0,PK-5,78
+23075,Highland Springs Elementary School,2.0,PK-5,86
+23222,Laburnum Elementary School,2.0,PK-5,86
+23231,Montrose Elementary School,2.0,PK-5,81
+23223,Ratcliffe Elementary School,2.0,PK-5,78
+23229,Ridge Elementary School,2.0,PK-5,72
+24501,William M. Bass Elementary School,1.0,PK-5,98
+23605,Carver Elementary School,1.0,PK-5,80
+23608,George J. Mcintosh Elementary School,1.0,PK-5,99
+23608,Horace H. Epes Elementary School,1.0,PK-5,82
+23607,Magruder Elementary School,1.0,PK-3,98
+23605,Sedgefield Elementary School,1.0,PK-5,99
+23504,Richard Bowling Elementary School,1.0,PK-5,99
+23523,Campostella Elementary School,1.0,K-6,61
+23504,Chesterfield Academy Elementary,1.0,PK-5,99
+23513,Coleman Place Elementary School,1.0,PK-5,99
+23504,Jacox Elementary School,1.0,PK-5,99
+23504,Lindenwood Elementary School,1.0,PK-5,99
+23508,James Monroe Elementary School,1.0,PK-5,99
+23803,Robert E. Lee Elementary School,1.0,K-5,99
+23707,Westhaven Elementary School,1.0,K-6,99
+23901,Prince Edward Elementary School,1.0,PK-4,75
+23224,E.S.H. Greene Elementary School,1.0,PK-5,97
+23224,Swansboro Elementary School,1.0,PK-5,97
+23225,G.H. Reid Elementary School,1.0,PK-5,98
+23223,George Mason Elementary School,1.0,PK-5,95
+23224,Oak Grove/Bellemeade Elementary School,1.0,PK-5,98
+23222,Overby-Sheppard Elementary School,1.0,PK-5,96
+23225,Westover Hills Elementary School,1.0,PK-5,99
+23223,Woodville Elementary School,1.0,PK-5,94
+22664,W.W. Robinson Elementary School,1.0,PK-5,52
+22980,William Perry Elementary School,1.0,K-5,68
+22980,Wenonah Elementary School,1.0,K-5,88
+24558,Sinai Elementary School,1.0,PK-5,90
+22937,Benjamin F Yancey Elementary School,1.0,K-5,73
+22311,William Ramsay Elementary School,1.0,PK-5,85
+23868,Totaro Elementary School,1.0,PK-5,96
+24540,G.L.H. Johnson Elementary School,1.0,K-5,93
+22003,Annandale Terrace Elementary School,1.0,PK-5,72
+23847,Belfield Elementary School,1.0,"PK, 1",86
+23847,Greensville Elementary School,1.0,PK-5,86
+23666,Christopher C. Kraft Elementary School,1.0,PK-5,51
+24541,E. A. Gibson Elementary School,1.0,K-5,95
+22060,Fort Belvoir  Upper School,,4-6,?
+24572,Amherst Educational Center,,Ungraded,?
+22207,Langston High School Continuation Program,,Ungraded,?
+22312,Alc At Montrose,,Ungraded,?
+23116,The Georgetown School,,Ungraded,?
+23116,The Hanover Center For Trades And Tech.,,Ungraded,?
+23060,New Start - Basic Alt. Center,,Ungraded,?
+22960,Redirection Alt. Ed.,,Ungraded,?
+22960,Turning Point Alt. Ed.,,Ungraded,?
+22551,John J. Wright Ed. And Cultural Center,,Ungraded,?
+23834,Colonial Heights Technical Center,,Ungraded,?
+23608,Newport Academy,,Ungraded,?
+23602,Aviation Academy,,Ungraded,?
+23320,Camp Young,,Ungraded,?
+23803,I. B. Pittman Vocational Center,,Ungraded,?
+23220,Capital City Program,,Ungraded,?
+24017,Forest Park Academy,,Ungraded,?
+23936,Buckingham County Primary School,,K-2,69
+23231,Generating Recovery Of Academic Direction,,Ungraded,?
+22204,Governor's Academy for Career and Technical Education In Arlington,,Ungraded,?
+23060,Pace,,Ungraded,?
+22310,Edison High School Academy,,Ungraded,?
+23323,Grassfield High School Governor's Stem Academy,,Ungraded,?
+23456,"Gov Stem Academy for Engineering, Marketing and Information Technology Studies",,Ungraded,?
+22042,Falls Church High School Academy,,Ungraded,?
+20151,Chantilly High School Academy,,Ungraded,?
+20175,The Loudoun Governor's Career & Technical Academy,,Ungraded,?
+24266,Stem for Life Governor's Academy,,Ungraded,?
+23851,Fresh Start Center,,Ungraded,?
+22043,Marshall High School Academy,,Ungraded,?
+20164,Loudoun Academy of Science,,Ungraded,?
+23075,General Academic Development,,Ungraded,?
+24153,Governor's Stem Academy at the Burton Center for Arts and Technology,,Ungraded,?
+23230,The Governor's Career and Technical Education Academy for Stem In Richmond,,Ungraded,?
+23513,The Academy Of International Studies At Rosemont,,Ungraded,?
+23005,Soar Academy,,Ungraded,?
+22508,Locust Grove Primary School,,PK-2,40
+22553,Gateway Academy,,Ungraded,?
+23060,Center For Diversified Studies,,Ungraded,?
+23223,New Bridge Learning Center,,Ungraded,?
+22205,Family Education Center for Parenting Teens,,Ungraded,?
+22151,Plum Center For Lifelong Learning,,Ungraded,?
+22963,Central Elementary School,,1-2,35
+23462,The Renaissance Academy,,Ungraded,?
+22030,Fairfax High School Academy,,Ungraded,?
+23075,Iseap Prgm,,Ungraded,?
+22307,West Potomac High School Academy,,Ungraded,?
+22554,Stafford Academy for Technology (Stat),,Ungraded,?
+22201,New Directions Alternative High School Program,,Ungraded,?
+23832,Governor's Career and Technical Academy for Engineering Studies,,Ungraded,?
+22015,ALC at Burke,,Ungraded,?
+23504,Traep - Norfolk,,Ungraded,?
+23504,Norfolk Re-Ed,,Ungraded,?
+23462,Traep - Virginia Beach,,Ungraded,?
+23434,Suffolk Re-Ed,,Ungraded,?
+23462,Virginia Beach Secep - Re-Ed,,Ungraded,?
+23452,Virginia Beach Secep,,Ungraded,?
+23707,Portsmouth Re-Ed,,Ungraded,?
+23322,Chesapeake Secep Center,,Ungraded,?
+20187,Mt. Vista Reg. Gov. School,,Ungraded,?
+22842,Massanutten Gov. School/Integrated Environ. Sci.,,Ungraded,?
+24416,Reg Alt Ed Center/Buena Vista,,Ungraded,?
+20110,The Governor's School @ Innovation Park,,Ungraded,?
+23060,Evening School Of Excellence,,Ungraded,?
+23231,Mehfoud Elementary School,,PK-2,46
+24078,Collinsville Primary School,,PK-2,81
+24502,Central Virginia Gov. School,,Ungraded,?
+24301,Southwest Virginia Gov. School,,Ungraded,?
+23510,Gov. School For The Arts,,Ungraded,?
+24015,Roanoke Valley Gov. School,,Ungraded,?
+23666,New Horizons Gov. School,,Ungraded,?
+22727,Madison Primary School,,PK-2,35
+24073,Christiansburg Primary School,,PK-2,46
+23502,Poplar Halls Elementary School,,PK-2,99
+23503,Willoughby Elementary School,,PK-2,55
+23510,P.B. Young Sr. Elementary School,,PK-2,98
+22567,Unionville Elementary School,,PK-2,46
+23803,A.P. Hill Elementary School,,K-5,97
+23662,Poquoson Primary School,,PK-2,17
+24141,Mcharg Elementary School,,PK-2,55
+23220,Amelia Street Sp. Ed.,,PK-12,77
+24649,Givens Elementary School,,PK-2,64
+24266,Lebanon Primary School,,PK-1,58
+24250,Fort Blackmore Primary School,,PK-3,63
+22407,Gates Alternative High School Prgm.,,Ungraded,?
+24605,Dudley Primary School,,PK-2,51
+23803,Appomattox Regional Gov. School,,Ungraded,?
+24210,A. Linwood Holton Gov. School,,Ungraded,?
+22560,Chesapeake Bay Gov. School,,Ungraded,?
+22407,Commonwealth Gov .Sch.,,Ungraded,?
+24558,Halifax County Career Center,,Ungraded,?
+24401,Virginia School For Deaf,,PK-12,0
+24401,Virginia School For Blind,,PK-12,0
+23220,Maggie L. Walker Governor's School,,Ungraded,?
+22963,Blue Ridge Gov. School,,Ungraded,?
+24422,Jackson River Gov. School,,Ungraded,?
+20111,Cougar Elementary School,,PK-2,66
+22903,Charlottesville Hosp. Ep.,,PK-12,?
+23298,Richmond Hospital Ep.,,PK-12,?
+24401,Ccca,,PK-12,?
+23507,Kings Daughters Hosp. Ep.,,PK-12,?
+23803,Central St. Hosp. Ed. Pr.,,PK-12,?
+23188,Eastern St. Hosp. Ed. Prg,,PK-12,?
+24401,Western St. Hosp. Ed. Pr.,,PK-12,?
+24572,Central Va. Training Center,,PK-12,?
+22032,Northern Va. Tr. Center E.P,,PK-12,?
+23803,Southside Va Training Center,,PK-12,?
+22939,Woodrow Wilson Rehab Center,,PK-12,?
+23298,Virginia Treatment Center,,PK-12,?
+23320,Southeastern Va Tr Center Ep,,PK-12,?
+24381,Southwestern Va Tr Center Ep,,PK-12,?
+24293,Regional Learning Academy/Wise Co,,Ungraded,?
+24343,Carroll/Galax/Joy Ranch Reg Alternative Ed,,Ungraded,?
+24112,Breaking Barriers Alternative Ed/Henry Co,,Ungraded,?
+24401,Shenandoah Valley Reg Alternative Ed/Genesis,,Ungraded,?
+22572,Northern Neck Regional Alternative Ed,,Ungraded,?
+23930,Piedmont Alternative,,Ungraded,?
+24382,Regional Alternative/Wythe Co,,Ungraded,?
+24266,Project Bridge/Russell Co,,Ungraded,?
+22110,New Dominion Alt. Center/Prince William Co.,,Ungraded,?
+23086,Regional Alternative Ed/King William,,Ungraded,?
+23868,Southside L.I.N.K. Project/Brunswick Co,,Ungraded,?
+22405,Regional Alternative Ed/Stafford Co,,Ungraded,?
+23219,Metro Richmond Alternative Ed,,Ungraded,?
+24201,Crossroads Alternative/Bristol City,,Ungraded,?
+24251,Renaissance/Scott Co,,Ungraded,?
+23405,Project Renew/Northampton Co,,Ungraded,?
+22728,The Regional Community Alternative Ed Continuum,,Ungraded,?
+23139,Project Return/Powhatan Co,,Ungraded,?
+24540,Regional Alternative/Pittslvania Co,,Ungraded,?
+23803,Petersburg Regional Alternative,,Ungraded,?
+24073,Altern Ed Prgm/Behav Disord Youth/Montgomery,,Ungraded,?
+22963,Project Return/Fluvanna Co,,Ungraded,?
+22042,Transition Support Resource Center/Fairfax,,Ungraded,?
+24012,Reg Alternative Plus Self Project/Roanoke City,,Ungraded,?
+23502,Tidewater Regional Alternative Ed Project,,Ungraded,?
+23606,Enterprise Academy/Newport News City,,Ungraded,?
+24504,Lynchburg City Secondary Alternative,,Ungraded,?
+22603,N.W. (Northwestern) Regional Juvenile Detention Home,,Ungraded,?
+24112,Piedmont Gov. School For Math./Sci./Tech.,,Ungraded,?
+23086,Cool Spring Primary School,,PK-2,35
+23416,Badger Voc Ed Center - North,,Ungraded,?
+23417,Badger Voc Ed Center - South,,Ungraded,?
+22204,Tech. Ed. & Career Center,,Ungraded,?
+22207,Stratford Program,,Ungraded,?
+24523,Science And Technology Center,,Ungraded,?
+24090,Botetourt Tech Educ Center,,Ungraded,?
+24201,Day Treatment Program,,Ungraded,?
+24614,Buchanan Co. Tech. & Career Center,,Ungraded,?
+24588,Campbell Co Tech  Center,,Ungraded,?
+24588,Cornerstone Learning Center,,Ungraded,?
+22903,Charlottesville Alternative School,,Ungraded,?
+23322,Chesapeake Center for Science & Technology,,Ungraded,?
+23325,Chesapeake Alternative School,,Ungraded,?
+23832,Chesterfield Tech,,Ungraded,?
+22307,Quander Road School,,Ungraded,?
+22030,Interagency Alt. Sec. Center,,Ungraded,?
+22042,Community Based Education,,Ungraded,?
+22306,Alc At Bryant,,Ungraded,?
+20121,Alc At Mountain View,,Ungraded,?
+22180,Cedar Lane Center,,Ungraded,?
+22043,Davis Vocational Center,,Ungraded,?
+22015,Burke School,,Ungraded,?
+22307,Pulley Vocational Center,,Ungraded,?
+22027,Secondary Head Start Centers,,Ungraded,?
+22728,Alternative Education Center,,Ungraded,?
+24134,Giles County Tech. Center,,Ungraded,?
+24348,Grayson Co. High Career & Tech. Ed.,,Ungraded,?
+22973,Greene Co. Technical Ed. Center,,Ungraded,?
+23075,Adult Education Center,,Ungraded,?
+23228,Hermitage Tech. Center,,Ungraded,?
+23075,Highland Springs Tech. Center,,Ungraded,?
+23860,Hopewell Isaep Center,,Ungraded,?
+24218,Lee County Career & Tech. Center,,Ungraded,?
+20175,C. S. Monroe Technology Center,,Ungraded,?
+20176,Douglass School,,Ungraded,?
+24504,Hutcherson Early Learning Center,,Ungraded,?
+20110,Joseph B. Johnson Learning Center,,Ungraded,?
+24073,Independence Secondary,,Ungraded,?
+23607,Peninsula Marine Institute,,Ungraded,?
+23608,Point Option Alternative School,,Ungraded,?
+23502,Norfolk Technical Center,,Ungraded,?
+23508,Madison,,Ungraded,?
+23405,The T.E.C.H. Center,,Ungraded,?
+22851,Page County Technical Center,,Ungraded,?
+24531,Pittsylvania Voc.-Tech. Center,,Ungraded,?
+23707,New Directions Center,,Ungraded,?
+23702,Cradock Technical & Career Center,,Ungraded,?
+23139,Powhatan Voc. Center,,Ungraded,?
+20112,Independent Hill,,Ungraded,?
+23230,Richmond Technical Center,,Ungraded,?
+23220,Richmond Acceleration Prgm.,,Ungraded,?
+23223,Pre-School Development Center,,Ungraded,?
+23227,Real Special Ed. Center,,Ungraded,?
+23227,Thirteen Acres Special Ed. Center,,Ungraded,?
+24153,Burton Center For Arts And Tech.,,Ungraded,?
+24266,Russell County Voc.,,Ungraded,?
+24251,Scott County Career and Technical Center,,Ungraded,?
+22842,Triplett Business & Tech.,,Ungraded,?
+24354,Smyth Co. Career & Tech. Center,,Ungraded,?
+22553,Spotsylvania Career And Tech. Center,,Ungraded,?
+23434,Turlington Woods Alternative School,,Ungraded,?
+24651,Tazewell Co. Career & Tech. Center,,Ungraded,?
+23452,Adult Learning Center,,Ungraded,?
+23456,Technical & Career Ed. Center,,Ungraded,?
+23453,Advanced Technology Center,,Ungraded,?
+24210,W.N. Neff Center  For Science And Technology,,Ungraded,?
+24293,Wise County Career-Technical Center,,Ungraded,?
+24293,Wise Co. Alternative Ed. Center,,Ungraded,?
+24382,Wythe County Tech Center,,Ungraded,?
+24541,Adult & Career  Education Center,,Ungraded,?
+23917,Alternative Education Center,,Ungraded,?
+24343,Carroll County Ed Center,,Ungraded,?
+22973,Alternative Education Center,,Ungraded,?
+20109,New Directions Alternative Ed Center,,Ungraded,?
+24012,Noel C. Taylor Academy At Oakland,,Ungraded,?
+23901,Prince Edward County Vocational Technical,,Ungraded,?
+23060,Va. Randolph Ed. Center,,Ungraded,?
+22306,Achievement Integrity And Maturity,,Ungraded,?
+22207,Hb Woodlawn Secondary Prgm.,,Ungraded,?
+23462,Diamond Springs Elementary School,,PK-1,75
+22553,Courthouse Academy Prgm.,,Ungraded,?
+22901,Charlottesville-Albemarle Tech,,Ungraded,?
+24426,Jackson River Tech Center,,Ungraded,?
+22801,Massanutten Tech Center,,Ungraded,?
+22939,Valley Vocational Tech Center,,Ungraded,?
+23608,Woodside Campus,,Ungraded,?
+23666,Butler Farm Campus,,Ungraded,?
+23434,Pruden Center For Indus/Tech,,Ungraded,?
+23830,Rowanty Vocational Tech Center,,Ungraded,?
+22572,Northern Neck Technical Center,,Ungraded,?
+23930,Amelia-Nottoway Voc Center,,Ungraded,?
+24333,Coop Center For Excep Children,,Ungraded,?
+23061,Mid Peninsula Reg Spec Ed Center,,Ungraded,?
+22511,Northern Neck Reg Special Ed,,Ungraded,?
+23602,Center For Autism,,Ungraded,?
+22901,Piedmont Reg Ed/Ivy Creek,,Ungraded,?
+24482,Shenandoah Valley Reg,,Ungraded,?
+23502,Southeastern Coop Ed Program,,Ungraded,?
+24501,Laurel Regional Special Ed Center,,Ungraded,?
+22601,Northwestern Reg Ed Program,,Ungraded,?
+20112,N Virginia Reg Spec Ed Program,,Ungraded,?
+24083,Roanoke Valley Regional Board,,Ungraded,?
+22939,Shenandoah Valley Gov. School,,Ungraded,?
+23947,Gov. School Global Economics/Tech.,,Ungraded,?
+24112,Henry Co/Martinsville Reg Program,,Ungraded,?
+23440,Tangier Combined,,K-12,24
+24574,Pleasant View Elementary School,,PK-5,40
+24522,Appomattox Primary School,,PK-2,53
+24523,Bedford Primary School,,PK-1,63
+24416,Fw Kling Jr Elementary School,,PK-2,62
+23320,B.M. Williams Primary School,,PK-2,47
+23322,Butts Road Primary School,,PK-2,9
+23322,Great Bridge Primary School,,PK-2,16
+23324,Portlock Primary School,,PK-2,87
+23324,Rena B. Wright Primary School,,PK-2,85
+23321,Western Branch Primary School,,PK-2,31
+23320,Greenbrier Primary School,,PK-2,25
+22041,Bailey's Elementary School for the Arts and Sciences,,PK-2,67
+22150,Key Center School,,PK-12,36
+22182,Kilmer Center,,PK-12,22
+22046,Mt. Daniel School,,K-1,6
+22401,Hugh Mercer Elementary School,,K-2,67
+22973,Greene County Primary School,,PK-2,49
+23005,Henry Clay Elementary School,,PK-2,54
+23060,Academy At Virginia Randolph,,Ungraded,?
+20147,Little Learners Academy,,PK-5,?
+23124,Bridging Communities Reg Cte Center,,Ungraded,?
+24523,Bedford County Alternative Education Center,,Ungraded,?
+23223,Empowerment Academy,,Ungraded,?
+23508,Norfolk Alternative High,,Ungraded,?
+23508,Norfolk Alternative Middle,,Ungraded,?
+22044,Bailey's Upper Elementary School for the Arts and Sciences,,3-5,?
+20148,Madison's Trust Elementary,,PK-5,?
+22193,Kyle R. Wilson Elementary School,,PK-5,?
+22601,John Kerr Elementary,,1-4,?
+23666,Greater Peninsula Governor's Stem Academy,,Ungraded,?
+23434,Fostering Innovation And Relevance Through Stem And Trades (,,Ungraded,?
+22572,Northern Neck Gov Stem Academy/Agric & Maritime Studies,,Ungraded,?
+22902,Monticello Governor's Health Sciences Academy,,Ungraded,?
+23124,Bridging Communities Stem Academy,,Ungraded,?
+23220,Coderva Regional High,,Ungraded,?
+24523,Governor's Health Sciences Academy,,Ungraded,?
+24083,Stem - Health Academy,,Ungraded,?
+24343,Blue Ridge Crossroads Governor's Academy For Technical Educa,,Ungraded,?
+23112,Chesterfield Career & Technical Center At Hull,,Ungraded,?
+23112,Academy 360,,Ungraded,?
+23112,Chesterfield Co Governor's Health/Science Academy,,Ungraded,?
+23112,Ccps Online,,Ungraded,?
+23832,Phoenix Center,,Ungraded,?
+23040,Superintendent's Region 8 Gov's Health/Science Academy,,Ungraded,?
+22043,Marshall Governor's Stem Academy,,Ungraded,?
+22042,Falls Church Governor's Health Sciences Academy,,Ungraded,?
+20151,Chantilly Governor's Stem Academy,,Ungraded,?
+22307,Clifford S. Hardison Governor's Health Sciences Academy,,Ungraded,?
+23061,Gloucester & Mathews Counties Gov's Health Sciences Academy,,Ungraded,?
+23666,Hampton City Public Schools Gov Health Sciences Academy,,Ungraded,?
+23666,Hampton Public Schools Architecture & Applied Arts Governor,,Ungraded,?
+22801,Harrisonburg Highs. Governor's Stem Academy,,Ungraded,?
+22801,Bluestone Elementary,,Ungraded,?
+20176,Academy Of Engineering And Technology,,Ungraded,?
+20148,Brambleton Middle School,,Ungraded,?
+24502,Lynchburg Regional Governor's Stem Academy,,Ungraded,?
+20110,Baldwin Intermediate School,,Ungraded,?
+24073,Montgomery County Governor's Stem Academy,,Ungraded,?
+23606,Newport News & York County Governor's Health Science Academy,,Ungraded,?
+23605,Heritage High School Governor's Stem Academy,,Ungraded,?
+22026,Covington-Harper Elementary School,,Ungraded,?
+24084,Pulaski County Public Schools Governor's Stem Academy,,Ungraded,?
+23230,Aspire Academy,,Ungraded,?
+22572,Richmond County Learning Center,,Ungraded,?
+22630,New Warren County Middle School,,Ungraded,?
+22630,Skyline Middle School,,Ungraded,?
+22601,Daniel Morgan Intermediate School,,Ungraded,?
