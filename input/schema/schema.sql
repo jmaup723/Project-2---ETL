@@ -18,16 +18,16 @@ CREATE TABLE middle_schools (
 	zip_code INT NOT NULL,
 	school_name VARCHAR NOT NULL,
 	school_rating DECIMAL,
-	grade_level VARCHAR NOT NULL,
+	grade_levels VARCHAR NOT NULL,
 	percent_low_income INT,
 	PRIMARY KEY (zip_code, school_name)
 );
 
-CREATE TABLE high_school (
+CREATE TABLE high_schools (
 	zip_code INT NOT NULL,
 	school_name VARCHAR NOT NUll,
 	school_rating DECIMAL,
-	grade_level VARCHAR NOT NULL,
+	grade_levels VARCHAR NOT NULL,
 	percent_low_income INT,
 	PRIMARY KEY (zip_code, school_name)
 );
