@@ -8,29 +8,26 @@ CREATE TABLE median_sales_price (
 CREATE TABLE elementary_schools (
 	zip_code INT NOT NULL,
 	school_name VARCHAR NOT NULL,
-	school_rating INT NOT NULL,
-	grade_levels INT NOT NUll,
-	percent_low_income INT NOT NULL,
-	PRIMARY KEY (zip_code),
-	FOREIGN KEY (zip_code) REFERENCES median_sales_price (zip_code)	
+	school_rating DECIMAL,
+	grade_levels VARCHAR NOT NUll,
+	percent_low_income INT,
+	PRIMARY KEY (zip_code, school_name)
 );
 
 CREATE TABLE middle_schools (
 	zip_code INT NOT NULL,
 	school_name VARCHAR NOT NULL,
-	school_rating INT NOT NULL,
-	grade_level INT NOT NULL,
-	percent_low_income INT NOT NUll,
-	FOREIGN KEY (zip_code) REFERENCES median_sales_price (zip_code),
-	PRIMARY KEY (zip_code)
+	school_rating DECIMAL NOT NULL,
+	grade_level VARCHAR NOT NULL,
+	percent_low_income INT,
+	PRIMARY KEY (zip_code, school_name)
 );
 
 CREATE TABLE high_school (
 	zip_code INT NOT NULL,
-	school VARCHAR NOT NUll,
-	school_rating INT NOT NULL,
-	grade_level INT NOT NULL,
-	percent_low_income INT NOT NULL,
-	FOREIGN KEY (zip_code) REFERENCES median_sales_price (zip_code),
-	PRIMARY KEY (zip_code)
+	school_name VARCHAR NOT NUll,
+	school_rating DECIMAL NOT NULL,
+	grade_level VARCHAR NOT NULL,
+	percent_low_income INT,
+	PRIMARY KEY (zip_code, school_name)
 );
