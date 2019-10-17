@@ -11,24 +11,26 @@ This Github repository represents an Extract, Transform, and Load (ETL) pipeline
 
 ## Pipeline
 1. Download data files
-     * Sale_Price - School_scores - src/schools_and-home_sales_price_db.py 
-    * ...
+    * Sale_Price - School_scores - src/   schools_and-home_sales_price_db
 2. Transformations
+    Great Schools
+        -Loaded files
+            1. Stripped percents from low income column data
 
-Great Schools
-   -Loaded files
-        1. Stripped percents from low income column data
-        2. Replaced question marks with null values for percent income column
-        3. store schools
-            a. input/elementary_schools.csv
-            b. input/middle_schools.csv
-            c. input/high_schools.csv
+            2. Replaced question marks with null values for percent income column
+
+            3. store schools
+                a. input/elementary_schools.csv
+                b. input/middle_schools.csv
+                c. input/high_schools.csv
         
- Zillow Median Sales Price       
-    -Loaded file
-         1. Filter columns (zip_code, state_name, 2018_median_sales_price)
-         2. Adveraged median sale price for the months for 2018 for every zip code 
-         3. Store median sales price - input/median_sale_data.csv
+    Zillow Median Sales Price       
+        -Loaded file
+            1. Filter columns (zip_code, state_name,        2018_median_sales_price)
+
+            2. Adveraged median sale price for the months for 2018 for every zip code
+
+            3. Store median sales price - input/            median_sale_data.csv
          
          
 3. Load
