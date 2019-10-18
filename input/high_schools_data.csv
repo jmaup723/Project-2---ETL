@@ -223,9 +223,9 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 22443,Colonial Beach High School,4.0,8-12,74
 22603,Millbrook High School,4.0,9-12,27
 20164,Dominion High School,4.0,PK-12,24
+22630,Skyline High School,4.0,8-12,36
 22701,Eastern View High School,4.0,9-12,38
 20176,Tuscarora High School,4.0,PK-12,20
-22630,Skyline High School,4.0,8-12,36
 23416,Arcadia High School,3.0,9-12,62
 22902,Monticello High School,3.0,9-12,30
 24426,Alleghany High School,3.0,9-12,38
@@ -489,6 +489,8 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 22306,Achievement Integrity And Maturity,,Ungraded,
 22207,Hb Woodlawn Secondary Prgm.,,Ungraded,
 24541,Langston Focus School,,9-12,94
+23842,Prince George Education Center,,6-12,
+22553,Courthouse Academy Prgm.,,Ungraded,
 24572,Amherst Educational Center,,Ungraded,
 22207,Langston High School Continuation Program,,Ungraded,
 22312,Alc At Montrose,,Ungraded,
@@ -595,5 +597,3 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 22630,New Warren County Middle School,,Ungraded,
 22630,Skyline Middle School,,Ungraded,
 22601,Daniel Morgan Intermediate School,,Ungraded,
-23842,Prince George Education Center,,6-12,
-22553,Courthouse Academy Prgm.,,Ungraded,

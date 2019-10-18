@@ -43,10 +43,10 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 23116,Oak Knoll Middle School,8.0,6-8,10
 24368,Rural Retreat Middle School,8.0,6-8,47
 20176,Belmont Ridge Middle School,8.0,6-8,7
+20155,Gainesville Middle School,8.0,6-8,13
 23114,Tomahawk Creek Middle School,8.0,6-8,7
 20152,J Michael Lunsford Middle School,8.0,6-8,7
 20148,ROCK RIDGE HIGH SCHOOL,8.0,PK-12,13
-20155,Gainesville Middle School,8.0,6-8,13
 22205,Swanson Middle School,7.0,6-8,13
 22207,Williamsburg Middle School,7.0,6-8,8
 24090,Central Academy Middle,7.0,6-8,25
@@ -162,13 +162,13 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 22602,Admiral Richard E. Byrd Middle School,6.0,6-8,26
 23060,Hungary Creek Middle School,6.0,6-8,26
 24266,Lebanon Middle School,6.0,5-7,52
+20148,Stone Hill Middle School,6.0,6-8,8
 23188,Lois Hornsby Middle School,6.0,6-8,17
 23836,Elizabeth Davis Middle School,6.0,6-8,31
 22554,Shirley C. Heim Middle School,6.0,6-8,38
 22835,Luray Middle School,6.0,6-8,52
 22079,South County Middle School,6.0,7-8,17
 23462,Bayside 6th Grade Campus,6.0,K-1,73
-20148,Stone Hill Middle School,6.0,6-8,8
 22903,Jackson P Burley Middle School,5.0,6-8,36
 22932,Joseph T Henley Middle School,5.0,6-8,11
 24521,Amherst Middle School,5.0,6-8,49
@@ -251,10 +251,10 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 20187,Auburn Middle School,5.0,6-8,10
 22939,Wilson Middle School,5.0,6-8,36
 24330,Fries School,5.0,PK-7,76
+24588,Rustburg Middle School,5.0,6-8,44
 24378,Grayson Highlands School,5.0,PK-7,71
 23661,Hunter B. Andrews,5.0,PK-8,84
 20158,Harmony Middle School,5.0,6-8,8
-24588,Rustburg Middle School,5.0,6-8,44
 22901,Jack Jouett Middle School,4.0,6-8,46
 22903,Leslie H Walton Middle School,4.0,6-8,40
 22911,Mortimer Y Sutherland Middle School,4.0,6-8,15
@@ -372,8 +372,8 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 23139,Pocahontas Middle School,3.0,K-1,15
 20110,Mayfield Intermediate School,3.0,5-6,60
 22026,Potomac Middle School,3.0,6-8,52
-22802,Skyline Middle School,3.0,5-8,73
 23150,Elko Middle School,3.0,6-8,54
+22802,Skyline Middle School,3.0,5-8,73
 22304,Francis C Hammond Middle,2.0,6-8,0
 22301,George Washington Middle School,2.0,6-8,0
 24260,Council Elementary/Middle School,2.0,PK-7,81
@@ -566,6 +566,8 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 23060,Va. Randolph Ed. Center,,Ungraded,
 22306,Achievement Integrity And Maturity,,Ungraded,
 22207,Hb Woodlawn Secondary Prgm.,,Ungraded,
+23842,Prince George Education Center,,6-12,
+22553,Courthouse Academy Prgm.,,Ungraded,
 24572,Amherst Educational Center,,Ungraded,
 22207,Langston High School Continuation Program,,Ungraded,
 22312,Alc At Montrose,,Ungraded,
@@ -670,5 +672,3 @@ zip_code,school_name,school_rating,grade_levels,percent_low_income
 22630,New Warren County Middle School,,Ungraded,
 22630,Skyline Middle School,,Ungraded,
 22601,Daniel Morgan Intermediate School,,Ungraded,
-23842,Prince George Education Center,,6-12,
-22553,Courthouse Academy Prgm.,,Ungraded,
